@@ -2,8 +2,10 @@
 
 Research questions: 
 - How do policitians change tweeting behavior towards health insitutions after the pandemic started?
+
 Hypothesis:
 - Initially, people will rally around instituions, but later drift apart.
+
 Implication:
 - We want to show that our intituion about the initial rallying in times of immediate crisis holds true in social media.
 
@@ -25,6 +27,28 @@ Data Preperation:
 Analysis: 
 - network analysis (different kind of graphs: mention, reply, retweet) - look at clustering coefficients etc
 - sentiment analysis (compute and aggregate, maybe over time)
+
+## Notes for presentation:
+
+Title: 
+
+Research question & motivation:
+- 
+
+Data collection:
+- 
+
+Analysis methods:
+- 
+
+Results: 
+-
+
+Possible limitations & biases:
+- 
+
+Next steps (optional):
+- 
 
 ## initial idea: Twitter politicians in country X and their sentiments about public institution under fire 
 
