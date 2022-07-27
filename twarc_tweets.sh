@@ -6,5 +6,5 @@ twarc2 searches --archive --start-time "2019-10-01T00:00:00" --end-time "2022-07
 twarc2 flatten tweets.json tweets_flat.json
 twarc2 dehydrate tweets_flat.json tweets_ids.txt
 
-twarc2 conversations tweets_ids.txt conversations.json
+twarc2 conversations --archive tweets_flat.txt conversations.json
 twarc2 flatten conversations.json conversations_flat.json
