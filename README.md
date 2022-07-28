@@ -30,19 +30,24 @@ Analysis:
 
 ## Notes for presentation:
 
-Title: 
+Title: Rallying behavior of politicians around public institutions in times of crises
 
 Research question & motivation:
-- 
+- Anecdotal evidence: people and politicians rallied around health institutions after COVID-19 before drifting apart.
+- Hypothesis: we would observe such behavior in social media discussions.
+- RQ: how do discussions involving MPs on Twitter regarding NHS change after the pandemic?
 
 Data collection:
-- 
+- Get data of MPs affiliation and tweet handles
+- Get conversations
 
 Analysis methods:
-- 
+- Network analysis
+- Sentiment analysis
+- Hatespeech detection
 
 Results: 
--
+- 
 
 Possible limitations & biases:
 - 
