@@ -2,3 +2,6 @@
 *.log
 *.zip
 .ipynb_checkpoints
+mention_after_first_network.gexf
+mention_before_network.gexf
+mention_first_wave_network.gexf
