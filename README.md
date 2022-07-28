@@ -59,6 +59,7 @@ Possible limitations & biases + Next steps (optional):
 - Next step could a comparative study: conducting the same analysis for other countries. Is rallying behavior more pronounced in other countries, or do we see similar patterns?
 - Data dominated by conservative politicians
 - Splits might not be optimal
+- Tweets collected mentioning NHSEngland, but many other NHS Twitter accounts exist. For  
 
 ## initial idea: Twitter politicians in country X and their sentiments about public institution under fire 
 
