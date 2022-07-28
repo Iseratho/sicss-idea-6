@@ -43,8 +43,7 @@ Data collection:
 
 Analysis methods:
 - Network analysis
-- Sentiment analysis
-- Hatespeech detection
+- Language analysis (sentiment, hate, offensive, emotion, irony), model trained on twitter data, preprocessing remove URLS similar to model training.
 
 Results: 
 - 
