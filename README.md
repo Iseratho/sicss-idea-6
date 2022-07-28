@@ -51,7 +51,8 @@ Results:
 - Plot of offensive distribution
 
 Conclusions
-- No rallying behavior, but negativity increase over-time
+- No rallying behavior found, but negativity increase over-time in the bigger picture.
+- However, a closer look still indicates some rallying behavior (optimistic cluster near target node and big offensive cluster on the edge around another node).
 
 Possible limitations & biases + Next steps (optional):
 - Sentiment/hate speech/offensive language increases which could speak against our hypothesis. However, negative sentiment does not exclude rallying behind an institution - you can express negative sentiment while also supporting it.
