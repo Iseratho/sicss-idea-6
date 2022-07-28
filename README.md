@@ -47,15 +47,18 @@ Analysis methods:
 - Hatespeech detection
 
 Results: 
-- 
+- Plot of mention graph
+- Plot of offensive distribution
 
 Conclusions
-- 
+- No rallying behavior, but negativity increase over-time
 
 Possible limitations & biases + Next steps (optional):
 - Sentiment/hate speech/offensive language increases which could speak against our hypothesis. However, negative sentiment does not exclude rallying behind an institution - you can express negative sentiment while also supporting it.
   - To test this, entity-level sentiment analysis could be done to isolate sentiment around NHSEngland.
 - Next step could a comparative study: conducting the same analysis for other countries. Is rallying behavior more pronounced in other countries, or do we see similar patterns?
+- Data dominated by conservative politicians
+- Splits might not be optimal
 
 ## initial idea: Twitter politicians in country X and their sentiments about public institution under fire 
 
