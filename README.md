@@ -46,13 +46,20 @@ Analysis methods:
 - Language analysis (sentiment, hate, offensive, emotion, irony), model trained on twitter data, preprocessing remove URLS similar to model training.
 
 Results: 
-- 
+- Plot of mention graph
+- Plot of offensive distribution
 
-Possible limitations & biases:
-- 
+Conclusions
+- No rallying behavior found, but negativity increase over-time in the bigger picture.
+- However, a closer look still indicates some rallying behavior (optimistic cluster near target node and big offensive cluster on the edge around another node).
 
-Next steps (optional):
-- 
+Possible limitations & biases + Next steps (optional):
+- Sentiment/hate speech/offensive language increases which could speak against our hypothesis. However, negative sentiment does not exclude rallying behind an institution - you can express negative sentiment while also supporting it.
+  - To test this, entity-level sentiment analysis could be done to isolate sentiment around NHSEngland.
+- Next step could a comparative study: conducting the same analysis for other countries. Is rallying behavior more pronounced in other countries, or do we see similar patterns?
+- Data dominated by conservative politicians
+- Splits might not be optimal
+- Tweets collected mentioning NHSEngland, but many other NHS Twitter accounts exist. For  
 
 ## initial idea: Twitter politicians in country X and their sentiments about public institution under fire 
 
